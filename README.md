@@ -201,12 +201,6 @@ This project is licensed under the MIT License.
 - Architecture: ResNet-50 (He et al., 2015)
 - Framework: PyTorch team
 
-## 📫 Contact
-
-- **LinkedIn:** [Your Profile]
-- **Email:** your.email@example.com
-- **Portfolio:** [your-website.com]
-
 ---
 
 **Disclaimer:** This project is for educational purposes only and should not be used for actual medical diagnosis. Always consult healthcare professionals for medical advice.
