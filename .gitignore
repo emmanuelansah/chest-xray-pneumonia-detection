@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+med-env/
+
+# Data
+data/
+chest_xray/
+chest_xray_organized/
+*.zip
+
+# Models (too large for GitHub)
+models/*.pth
+models/*.pt
+models/*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training outputs
+*.png
+*.jpg
+*.jpeg
+training_curves.png
+confusion_matrix.png
+roc_curve.png
+
+# Keep example images
+!examples/*.jpeg
+!examples/*.jpg
+!examples/*.png
